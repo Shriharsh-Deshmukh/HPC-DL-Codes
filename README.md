@@ -2,13 +2,34 @@
 SPPU Semester VIII Practical Codes For Laboratory Practice V High Performance Computing (HPC), Deep Learning (DL)
 <br><br><br><br>
 
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2684d9f2-06c5-4ab3-9852-09b906123143" alt="Button Norm" width="240"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/819d8393-8de5-47f9-a024-da90f72223c3" alt="Button Norm" width="240"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/2e442dd7-8531-4e69-89ee-310b8d13ca53" alt="Button Norm" width="240"/>
-<br><br><br><br>
-  <img src="https://github.com/user-attachments/assets/fed93179-9e6b-4849-af89-f0d426cdaafa" alt="Button Norm" width="50"/>
-  <br><br><br><br>
+  <a href="https://drive.google.com/uc?export=download&id=1Orw8r8-OuMIBG5-8DYHNaZOqSKkGor-v">
+  <img src="https://github.com/user-attachments/assets/2684d9f2-06c5-4ab3-9852-09b906123143" 
+       alt="Download Button" 
+       width="240" 
+       style="cursor: pointer;" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1blOtnw8EGVpwr5HFiTEnGtU2LF-11Ni1">
+  <img src="https://github.com/user-attachments/assets/819d8393-8de5-47f9-a024-da90f72223c3" 
+       alt="Download Button" 
+       width="240" 
+       style="cursor: pointer;" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1niVMBkt4QoAlw3-Q8H1N8xTY_bNkaMAE">
+  <img src="https://github.com/user-attachments/assets/2e442dd7-8531-4e69-89ee-310b8d13ca53" 
+       alt="Download Button" 
+       width="240" 
+       style="cursor: pointer;" />
+</a><br><br><br><br>
+
+  <a href="https://drive.google.com/uc?export=download&id=1niVMBkt4QoAlw3-Q8H1N8xTY_bNkaMAE">
+  <img src="https://github.com/user-attachments/assets/fed93179-9e6b-4849-af89-f0d426cdaafa" 
+       alt="Download Button" 
+       width="50" 
+       style="cursor: pointer;" />
+</a><br><br><br><br>
 </p>
 
 
