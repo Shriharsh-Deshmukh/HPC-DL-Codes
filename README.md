@@ -8,11 +8,12 @@ SPPU Semester VIII Practical Codes For Laboratory Practice V High Performance Co
   <img src="https://github.com/user-attachments/assets/2e442dd7-8531-4e69-89ee-310b8d13ca53" alt="Button Norm" width="240"/>
 <br><br><br><br>
   <img src="https://github.com/user-attachments/assets/fed93179-9e6b-4849-af89-f0d426cdaafa" alt="Button Norm" width="50"/>
+  <br><br><br><br>
 </p>
 
-<br>
+
 **Note:**<br>
-Its super important to use latest Mingw64. Download here: [[Win32](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-i686-posix-dwarf-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip), | [Win64](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)] <br>
+Its super important to use latest Mingw64. Download here: [Win32](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-i686-posix-dwarf-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)  [Win64](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip) <br>
 We are performing operations on system threads so old mingw may not work.
 <br><br>
 
