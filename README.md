@@ -65,8 +65,8 @@ Mini Project: Colorizing Old B&W Images: color old black and white images to col
 
 **Experiment No. 9:**<br>
 Mini Project: Implement Paralleli zation of Database Query optimization.<br>
-
-
+#
+If buttons are not working then [click here](https://drive.google.com/drive/folders/1x76WUorRHgHn2OGSUMZLjzgxQr7SQfrX?usp=sharing)
 
 
 
