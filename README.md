@@ -32,12 +32,12 @@ SPPU Semester VIII Practical Codes For Laboratory Practice V High Performance Co
        style="cursor: pointer;" />
  </a><br><br>
   <!--<br><br> -->
-<!--
-  <a href="https://drive.google.com/uc?export=download&id=1niVMBkt4QoAlw3-Q8H1N8xTY_bNkaMAE">
+
+  <a href="https://drive.google.com/file/d/1-fFe0ncCha7GThfRu0g02JOV8OtOy9wi/view?usp=sharing">
   <img src="https://github.com/user-attachments/assets/fed93179-9e6b-4849-af89-f0d426cdaafa" 
        alt="Download Button" 
        width="50" 
-       style="cursor: pointer;" /> -->
+       style="cursor: pointer;" /> 
 </a><br><br>
 </p>
 
