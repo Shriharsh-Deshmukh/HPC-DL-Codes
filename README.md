@@ -19,13 +19,13 @@ SPPU Semester VIII Practical Codes For Laboratory Practice V High Performance Co
        width="240" 
        style="cursor: pointer;" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1blOtnw8EGVpwr5HFiTEnGtU2LF-11Ni1">
+  <a href="https://drive.google.com/uc?export=download&id=1amGdY-y_Zr4__n1DtEJ8XhNQxeS_lv6Q">
   <img src="https://github.com/user-attachments/assets/819d8393-8de5-47f9-a024-da90f72223c3" 
        alt="Download Button" 
        width="240" 
        style="cursor: pointer;" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1niVMBkt4QoAlw3-Q8H1N8xTY_bNkaMAE">
+  <a href="https://drive.google.com/uc?export=download&id=191WpaqKoGOE88-qbPPL4FqIH4pFPKzjG">
   <img src="https://github.com/user-attachments/assets/2e442dd7-8531-4e69-89ee-310b8d13ca53" 
        alt="Download Button" 
        width="240" 
