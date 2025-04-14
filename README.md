@@ -1,8 +1,16 @@
 # LPV
 SPPU Semester VIII Practical Codes For Laboratory Practice V High Performance Computing (HPC), Deep Learning (DL)
-<br><br><br><br>
+<br>
 
 
+<p align="center">
+  <a href="https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip">
+  <img src="https://github.com/user-attachments/assets/c9d2a265-acbd-49a9-af91-b016392b6c96" 
+       alt="Download Button" 
+       style="cursor: pointer;" />
+
+#
+<br><br><br>
 
 <p align="center">
   <a href="https://drive.google.com/uc?export=download&id=1Orw8r8-OuMIBG5-8DYHNaZOqSKkGor-v">
@@ -30,14 +38,15 @@ SPPU Semester VIII Practical Codes For Laboratory Practice V High Performance Co
        alt="Download Button" 
        width="50" 
        style="cursor: pointer;" /> -->
-</a><br><br><br><br>
+</a><br><br>
 </p>
 
-
+<!--
+<br><br>
 **Note:**<br>
 Its super important to use latest Mingw64. Download here: [Win32](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-i686-posix-dwarf-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)  [Win64](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip) <br>
 We are performing operations on system threads so old mingw may not work.
-<br><br>
+<br><br>-->
 
 ## Index:
 **Experiment No. 1:**<br>
@@ -69,7 +78,9 @@ Mini Project: Implement Paralleli zation of Database Query optimization.<br>
 #
 If buttons are not working then [click here](https://drive.google.com/drive/folders/1x76WUorRHgHn2OGSUMZLjzgxQr7SQfrX?usp=sharing)
 
-
+#
+**You can also download latest Mingw64 below:**<br>
+[Win32](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-i686-posix-dwarf-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)  [Win64](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)  <br>
 
 
 
