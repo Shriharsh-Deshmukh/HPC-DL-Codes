@@ -1,52 +1,21 @@
 # LPV
 SPPU Semester VIII Practical Codes For Laboratory Practice V High Performance Computing (HPC), Deep Learning (DL)
-<br>
-
-
-<p align="center">
-  <a href="https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip">
-  <img src="https://github.com/user-attachments/assets/c9d2a265-acbd-49a9-af91-b016392b6c96" 
-       alt="Download Button" 
-       style="cursor: pointer;" />
-
-#
-<br><br><br>
+<br><br><br><br>
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1hAZa6uOqzGSjr4fj6adeQgGEY6Im5PXO">
-  <img src="https://github.com/user-attachments/assets/2684d9f2-06c5-4ab3-9852-09b906123143" 
-       alt="Download Button" 
-       width="240" 
-       style="cursor: pointer;" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1amGdY-y_Zr4__n1DtEJ8XhNQxeS_lv6Q">
-  <img src="https://github.com/user-attachments/assets/819d8393-8de5-47f9-a024-da90f72223c3" 
-       alt="Download Button" 
-       width="240" 
-       style="cursor: pointer;" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=191WpaqKoGOE88-qbPPL4FqIH4pFPKzjG">
-  <img src="https://github.com/user-attachments/assets/2e442dd7-8531-4e69-89ee-310b8d13ca53" 
-       alt="Download Button" 
-       width="240" 
-       style="cursor: pointer;" />
- </a><br><br>
-  <!--<br><br> -->
-
-  <a href="https://drive.google.com/file/d/1-fFe0ncCha7GThfRu0g02JOV8OtOy9wi/view?usp=sharing">
-  <img src="https://github.com/user-attachments/assets/fed93179-9e6b-4849-af89-f0d426cdaafa" 
-       alt="Download Button" 
-       width="50" 
-       style="cursor: pointer;" /> 
-</a><br><br>
+  <img src="https://github.com/user-attachments/assets/2684d9f2-06c5-4ab3-9852-09b906123143" alt="Button Norm" width="240"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/819d8393-8de5-47f9-a024-da90f72223c3" alt="Button Norm" width="240"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/2e442dd7-8531-4e69-89ee-310b8d13ca53" alt="Button Norm" width="240"/>
+<br><br><br><br>
+  <img src="https://github.com/user-attachments/assets/fed93179-9e6b-4849-af89-f0d426cdaafa" alt="Button Norm" width="50"/>
+  <br><br><br><br>
 </p>
 
-<!--
-<br><br>
+
 **Note:**<br>
 Its super important to use latest Mingw64. Download here: [Win32](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-i686-posix-dwarf-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)  [Win64](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip) <br>
 We are performing operations on system threads so old mingw may not work.
-<br><br>-->
+<br><br>
 
 ## Index:
 **Experiment No. 1:**<br>
@@ -75,12 +44,10 @@ Mini Project: Colorizing Old B&W Images: color old black and white images to col
 
 **Experiment No. 9:**<br>
 Mini Project: Implement Paralleli zation of Database Query optimization.<br>
-#
-If buttons are not working then [click here](https://drive.google.com/drive/folders/1x76WUorRHgHn2OGSUMZLjzgxQr7SQfrX?usp=sharing)
 
-#
-**You can also download latest Mingw64 below:**<br>
-[Win32](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-i686-posix-dwarf-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)  [Win64](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)  <br>
+
+
+
 
 
 
