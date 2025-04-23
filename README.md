@@ -1,6 +1,6 @@
 # LPV
 SPPU Semester VIII Practical Codes For Laboratory Practice V High Performance Computing (HPC), Deep Learning (DL)
-<br><br><br><br>
+<br><br>
 
 **Note:**<br>
 Its super important to use latest Mingw64. Download here: [Win32](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-i686-posix-dwarf-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip)  [Win64](https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-12.0.0-ucrt-r3/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.7-mingw-w64ucrt-12.0.0-r3.zip) <br>
