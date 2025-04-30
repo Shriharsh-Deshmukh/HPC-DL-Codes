@@ -111,9 +111,17 @@ DWORD WINAPI thread_function(LPVOID lpParam)
 
 // _________________________________________________________________________________
 // Run Commands (Ubuntu Terminal):
+
+//  <<< Step 1: Update Mingw64 >>>
+//sudo apt update
+//sudo apt install --only-upgrade mingw-w64
+//OR
+//sudo apt install mingw-w64
+
+//  <<< Step 2: Run Codes >>>
 // g++ -fopenmp  9_Parallelization_of_Database_Query_optimization.cpp -o threaded_query_app
 //  ./threaded_query_app
-
+// _________________________________________________________________________________
 // Run Commands (VS Code):
 // g++ -o threaded_query_app 9_Parallelization_of_Database_Query_optimization.cpp -static -lws2_32
 // .\threaded_query_app
