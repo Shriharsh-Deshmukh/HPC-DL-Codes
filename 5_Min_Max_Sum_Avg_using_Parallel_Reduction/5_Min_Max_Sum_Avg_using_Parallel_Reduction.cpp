@@ -88,9 +88,21 @@ int main()
     return 0;
 }
 
+//------------------------------------------------------
+
 // Run Commands (Ubuntu Terminal):
+
+//  <<< Step 1: Update Mingw64 >>>
+//sudo apt update
+//sudo apt install --only-upgrade mingw-w64
+//OR
+//sudo apt install mingw-w64
+
+//  <<< Step 2: Run Codes >>>
 // g++ -fopenmp  5_Min_Max_Sum_Avg_using_Parallel_Reduction.cpp -o parallel_reduction
 //  ./parallel_reduction
+
+//------------------------------------------------------
 
 // Run Commands (VS Code):
 // g++ -fopenmp -o parallel_reduction 5_Min_Max_Sum_Avg_using_Parallel_Reduction.cpp
