@@ -52,13 +52,27 @@ int main()
     return 0;
 }
 
+//------------------------------------------------------
+
 // Run Commands (Ubuntu Terminal):
+
+//  <<< Step 1: Update Mingw64 >>>
+//sudo apt update
+//sudo apt install --only-upgrade mingw-w64
+//OR
+//sudo apt install mingw-w64
+
+//  <<< Step 2: Run Codes >>>
 // g++ -fopenmp  7_HPC_application_for_AI-ML_domain.cpp -o hpc_ml
 //  ./hpc_ml
+
+//------------------------------------------------------
 
 // Run Commands (VS Code):
 // g++ -fopenmp -o hpc_ml 7_HPC_application_for_AI-ML_domain.cpp
 // .\hpc_ml
+
+//------------------------------------------------------
 
 //****Output Example:****
 
