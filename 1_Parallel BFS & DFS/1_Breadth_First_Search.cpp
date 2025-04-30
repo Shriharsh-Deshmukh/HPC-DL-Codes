@@ -125,15 +125,27 @@ int main()
 
     return 0;
 }
+//------------------------------------------------------
 
 // Run Commands (Ubuntu Terminal):
+
+//  <<< Step 1: Update Mingw64 >>>
+//sudo apt update
+//sudo apt install --only-upgrade mingw-w64
+//OR
+//sudo apt install mingw-w64
+
+//  <<< Step 2: Run Codes >>>
 // g++ -fopenmp  1_Breadth_First_Search.cpp -o parallel_bfs
 //  ./parallel_bfs
+
+//------------------------------------------------------
 
 // Run Commands (VS Code):
 // g++ -fopenmp -o parallel_bfs 1_Breadth_First_Search.cpp
 // .\parallel_bfs
 
+//------------------------------------------------------
 // Example:
 // Enter data: a
 // Insert another node? (y/n): y
