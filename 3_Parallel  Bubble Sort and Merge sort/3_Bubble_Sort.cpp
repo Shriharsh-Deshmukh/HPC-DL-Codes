@@ -57,9 +57,21 @@ int main()
     return 0;
 }
 
+//------------------------------------------------------
+
 // Run Commands (Ubuntu Terminal):
+
+//  <<< Step 1: Update Mingw64 >>>
+//sudo apt update
+//sudo apt install --only-upgrade mingw-w64
+//OR
+//sudo apt install mingw-w64
+
+//  <<< Step 2: Run Codes >>>
 // g++ -fopenmp  3_Bubble_Sort.cpp -o bubble_sort
 //  ./bubble_sort
+
+//------------------------------------------------------
 
 // Run Commands (VS Code):
 // g++ -fopenmp -o bubble_sort 3_Bubble_Sort.cpp
