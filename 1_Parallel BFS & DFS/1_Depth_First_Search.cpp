@@ -89,13 +89,27 @@ int main()
     return 0;
 }
 
+//------------------------------------------------------
+
 // Run Commands (Ubuntu Terminal):
+
+//  <<< Step 1: Update Mingw64 >>>
+//sudo apt update
+//sudo apt install --only-upgrade mingw-w64
+//OR
+//sudo apt install mingw-w64
+
+//  <<< Step 2: Run Codes >>>
 // g++ -fopenmp  1_Depth_First_Search.cpp -o parallel_dfs
 //  ./parallel_dfs
+
+//------------------------------------------------------
 
 // Run Commands (VS Code):
 // g++ -fopenmp -o parallel_dfs 1_Depth_First_Search.cpp
 // .\parallel_dfs
+
+//------------------------------------------------------
 
 // Output Example:
 // Enter number of nodes, edges, and the starting node: 6 5 0
